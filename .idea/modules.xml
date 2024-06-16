@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ControlFlow/ControlFlow.iml" filepath="$PROJECT_DIR$/ControlFlow/ControlFlow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/First Steps/First Steps.iml" filepath="$PROJECT_DIR$/First Steps/First Steps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java Course Resources.iml" filepath="$PROJECT_DIR$/.idea/Java Course Resources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KeywordsAndExpressions/KeywordsAndExpressions.iml" filepath="$PROJECT_DIR$/KeywordsAndExpressions/KeywordsAndExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intelliJBasics/intelliJBasics.iml" filepath="$PROJECT_DIR$/intelliJBasics/intelliJBasics.iml" />
+    </modules>
+  </component>
+</project>
