@@ -20,7 +20,7 @@ public class ComplexNumber {
         this.real += real;
         this.imaginary += imaginary;
     }
-    
+
     public void add(ComplexNumber complexNumber){
         this.real += complexNumber.real;
         this.imaginary += complexNumber.imaginary;
