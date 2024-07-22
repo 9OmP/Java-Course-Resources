@@ -21,7 +21,7 @@ public class Dog extends Animal{
     @Override
     public void makeNoise() {
         if (type == "wolf"){
-            System.out.print("Ooow owwwwwwwwwwwwwww");
+            System.out.print("Ooow owwwwwwwwwwwwwww ");
         }
 
         bark();
@@ -42,16 +42,16 @@ public class Dog extends Animal{
     }
 
     private void bark(){
-        System.out.print("Woof!!");
+        System.out.print("Woof!! ");
     }
     private void run(){
-        System.out.print("Dog Barking.");
+        System.out.print("Dog Barking. ");
     }
     private void walk(){
-        System.out.print("Dog Walking.");
+        System.out.print("Dog Walking. ");
     }
     private void wagtail(){
-        System.out.print("Dog is wagging its tail.");
+        System.out.print("Dog is wagging its tail. ");
     }
 
 

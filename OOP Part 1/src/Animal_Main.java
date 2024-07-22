@@ -10,6 +10,8 @@ public class Animal_Main {
         do_animal_stuff(retriever, "slow");
         Dog wolf = new Dog("wolf", 40);
         do_animal_stuff(wolf, "slow");
+        Fish goldie = new Fish("goldfish", 0.25, 2, 3);
+        do_animal_stuff(goldie, "fast");
 
     }
 
