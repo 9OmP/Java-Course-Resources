@@ -10,9 +10,9 @@ public class Worker {
     }
 
     public int getAge(){
-        int curremt_year = 2024;
+        int current_year = 2024;
         int birthYear = Integer.parseInt(birthDate.substring(6));
-        return curremt_year - birthYear;
+        return current_year - birthYear;
     }
 
     public double collectPay(){
